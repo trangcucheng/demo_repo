@@ -1,2 +1,6 @@
 Hello. I am Binh. I send for you a message : Good evening
+<<<<<<< HEAD
 Yes! I have changed!
+=======
+Hello. I am Binh. I edit this message. You will have a conflict here
+>>>>>>> d44875db89e366788a50018f2424f78154d29026
