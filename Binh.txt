@@ -1,1 +1,2 @@
 Hello. I am Binh. I send for you a message : Good evening
+Hello. I am Binh. I edit this message. You will have a conflict here
